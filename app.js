@@ -69,6 +69,7 @@ for (let i = 0; i < projects.length; i++) {
     projectImage.setAttribute("class", "imageclass");
 
 
+
     let projectAnchorRepo = document.createElement("a");
     projectAnchorRepo.setAttribute("id", "projectAnchorRepo");
     projectAnchorRepo.innerHTML = "Link Repository";
